@@ -1,13 +1,13 @@
 # KyungSu Park 😄
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jjuhee0913@gmail.com)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 <br />
 <br />
 
 ## Who Am I
-- 🧑‍💻 ㅑ'm currently studying front-end technologies because I originally started out as a web publisher.
+- 🧑‍💻 I'm currently studying front-end technologies because I originally started out as a web publisher.
 - 😠 I'm confident that I can approach everything with passion and dedication.
 - 😢 I don't like eggplants, tomatoes, or corn. ;(
 
