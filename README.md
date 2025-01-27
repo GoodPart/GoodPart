@@ -13,7 +13,7 @@
 </div>
 
 ## Who Am I
-- 🧑‍💻 I'm currently studying front-end technologies because I originally started out as a web publisher.
+- 🧑‍💻 I'm currently studying front-end technologies because, I originally started out as a web publisher.
 - 😠 I'm confident that I can approach everything with passion and dedication.
 - 😢 I don't like eggplants, tomatoes, or corn. ;(
 
