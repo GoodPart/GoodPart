@@ -12,15 +12,11 @@
 
 </div>
 
-## Who Am I
-- 🧑‍💻 I'm currently studying front-end technologies because, I originally started out as a web publisher.
-- 😠 I'm confident that I can approach everything with passion and dedication.
-- 😢 I don't like eggplants, tomatoes, or corn. ;(
-
-## What I Like
-- 👬 My Family
-- 🏋️ Gym training
-- 🏀 Basketball
+## 좋아하는것
+- 👬 가족
+- 🏋️ 헬스
+- 🏀 농구
+- ✍️ 성장
 
 
 
