@@ -12,6 +12,9 @@
 
 </div>
 
+## URL
+https://goodpart.github.io/24_pp/
+
 ## 좋아하는것
 - 👬 가족
 - 🏋️ 헬스
