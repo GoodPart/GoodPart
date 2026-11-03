@@ -62,6 +62,7 @@ https://goodpart.github.io/24_pp/
 [![Made with Supabase](https://supabase.com/badge-made-with-supabase-dark.svg)](https://supabase.com)
 
 ## Ied
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=Cursor&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Infra
